@@ -160,11 +160,42 @@
 - ⏳ Configurar Google Search Console
 - ⏳ Actualizar email y teléfono en Schema
 
-#### 6.2 Instagram (@vinxe.cl)
+#### 6.2 Estrategia de Contenido 360°
 
 | Archivo | Descripción | Estado |
 |---------|-------------|--------|
-| `vinxe-instagram-contenido.md` | Contenido completo Semana 1 | ✅ |
+| `vinxe-content-strategy.md` | Estrategia completa 90 días (20K+ palabras) | ✅ |
+| `vinxe-instagram-contenido.md` | Contenido Semana 1 específico | ✅ |
+
+**Resumen estrategia:**
+- **Fase 1 (Semanas 1-4):** Fundamentos — Instagram + Blog SEO
+- **Fase 2 (Semanas 5-8):** Escalamiento — Duplicar frecuencia + Email marketing
+- **Fase 3 (Semanas 9-12):** Autoridad — Thought leadership + Webinars
+
+**Pilares de contenido:**
+1. Educación (40%) — Cómo funciona la IA para inmobiliarias
+2. Problema-Solución (30%) — "¿Te pasa que...?"
+3. Social Proof (20%) — Casos y testimonios
+4. Comunidad (10%) — Cultura y detrás de cámaras
+
+**Buyer Personas definidos:**
+- **Pedro:** Corredor independiente (1-3 corredores), 35-50 años
+- **María:** Gerente de agencia mediana (5-15 corredores)
+
+**Canales prioritarios:**
+- 🔴 Instagram (diario) — Awareness + Engagement
+- 🔴 Blog SEO (2x semana) — Tráfico orgánico
+- 🟡 LinkedIn (2x semana) — B2B + Authority
+- 🟡 Email newsletter (semanal) — Nurturing
+
+**Metas 90 días:**
+- 50 leads generados
+- 500 seguidores Instagram
+- 500 visitas/mes orgánicas
+- 200 email subscribers
+- >5% engagement rate
+
+#### 6.3 Instagram (@vinxe.cl)
 
 **Perfil optimizado:**
 - Username: @vinxe.cl

@@ -91,6 +91,7 @@
 - `cold-email-system/agencias.csv` - 10 agencias priorizadas
 
 **Marketing:**
+- `vinxe-content-strategy.md` - Estrategia de contenido 360° completa (90 días, 20K+ palabras)
 - `vinxe-landing-inmobiliaria.html` - Landing page completa (SEO optimizada)
 - `vinxe-sitemap.xml` + `vinxe-robots.txt` - SEO técnico
 - `vinxe-instagram-simple.md` - Contenido Instagram Semana 1 (lenguaje simple)
