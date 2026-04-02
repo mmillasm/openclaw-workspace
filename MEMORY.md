@@ -102,6 +102,14 @@
 - `vinxe-agent-quickref.md` - Quick reference card
 - `memory/2026-04-02.md` - Detalle completo de sesión
 
+**Sistema de Diseño:**
+- `vinxe-brand-identity.md` - Identidad de marca (wordmark puro)
+- `vinxe-design-tokens.css` - Tokens CSS (colores, tipografía, espaciado)
+- `vinxe-tailwind.config.js` - Configuración Tailwind completa
+- `vinxe-figma-structure.md` - Estructura de páginas y componentes Figma
+- `vinxe-voice-guide.md` - Guía de voz por canal (emails, Instagram, web)
+- `vinxe-image-prompts-branded.md` - Prompts de imágenes para la marca
+
 **Skills instaladas (16 total):**
 - Producto: client-intake-bot-pro, voiceflow, whatsapp-business-api, n8n, lead-scorer
 - Marketing: instagram-agent, social-media-marketing, website-seo, seo-optimizer
