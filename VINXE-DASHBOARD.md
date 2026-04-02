@@ -166,6 +166,22 @@
 |---------|-------------|--------|
 | `vinxe-content-strategy.md` | Estrategia completa 90 días (20K+ palabras) | ✅ |
 | `vinxe-instagram-contenido.md` | Contenido Semana 1 específico | ✅ |
+| `lead-magnets/` | Carpeta con 4 recursos gratuitos | ✅ |
+
+**Lead Magnets creados (todos sin jerga técnica):**
+
+| # | Lead Magnet | Archivo | Formato | Propósito |
+|---|-------------|---------|---------|-----------|
+| 1 | Checklist: "¿Tu Agencia Está Dejando Pasar Clientes?" | `vinxe-checklist-dejando-pasar-clientes.md` | PDF (pendiente) | Auto-evaluación 15 preguntas |
+| 2 | Calculadora: "¿Cuánto Dinero Dejas de Ganar?" | `vinxe-calculadora-dinero-perdido.md` | Sheets/PDF (pendiente) | Descubre pérdidas mensuales |
+| 3 | Guía: "Cómo Atender Clientes Rápido..." | `vinxe-guia-atender-clientes-rapido.md` | PDF (pendiente) | Guía completa 20+ páginas |
+| 4 | Templates: "10 Mensajes Listos para WhatsApp" | `vinxe-10-mensajes-whatsapp.md` | PDF/Doc (pendiente) | Copiar y pegar |
+
+**Lenguaje usado (cero jerga técnica):**
+- ❌ "Lead" → ✅ "cliente potencial"
+- ❌ "Automatización" → ✅ "sistema de respuestas"
+- ❌ "Chatbot" → ✅ "asistente virtual"
+- ❌ "Cualificación" → ✅ "separar a los que quieren comprar"
 
 **Resumen estrategia:**
 - **Fase 1 (Semanas 1-4):** Fundamentos — Instagram + Blog SEO

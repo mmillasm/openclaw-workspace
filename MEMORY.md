@@ -96,6 +96,11 @@
 - `vinxe-sitemap.xml` + `vinxe-robots.txt` - SEO técnico
 - `vinxe-instagram-simple.md` - Contenido Instagram Semana 1 (lenguaje simple)
 - `vinxe-instagram-contenido.md` - Contenido versión técnica
+- `lead-magnets/` - 4 recursos gratuitos sin jerga técnica:
+  - `vinxe-checklist-dejando-pasar-clientes.md`
+  - `vinxe-calculadora-dinero-perdido.md`
+  - `vinxe-guia-atender-clientes-rapido.md`
+  - `vinxe-10-mensajes-whatsapp.md`
 
 **Documentación:**
 - `VINXE-DASHBOARD.md` - Índice maestro de todo el proyecto
