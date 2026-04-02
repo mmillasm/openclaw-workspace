@@ -1,0 +1,23 @@
+Hola {{nombre}},
+
+Me llamo [Tu Nombre] y ayudo a agencias inmobiliarias como {{agencia}} a convertir más leads en visitas sin contratar más personal.
+
+Veo que manejan propiedades en {{zona}} — un mercado donde la velocidad de respuesta marca la diferencia entre cerrar una venta o perderla.
+
+Estamos desarrollando un asistente de IA que:
+• Responde leads de WhatsApp 24/7 (incluso a las 11 PM)
+• Califica automáticamente a compradores serios
+• Agenda visitas directo en tu calendario
+
+¿Le interesaría una conversación de 30 minutos para ver si esto podría funcionar en {{agencia}}? No es una venta, es exploración genuina.
+
+Tengo disponibilidad:
+• [Día 1] a las [hora]
+• [Día 2] a las [hora]
+• [Día 3] a las [hora]
+
+¿Alguna opción le funciona?
+
+Saludos,
+[Tu Nombre]
+[Tu Teléfono]

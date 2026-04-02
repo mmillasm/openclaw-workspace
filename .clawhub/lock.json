@@ -44,6 +44,66 @@
     "wip-file-guard": {
       "version": "1.9.67",
       "installedAt": 1774966365445
+    },
+    "market-research": {
+      "version": "1.0.1",
+      "installedAt": 1775081239938
+    },
+    "market-research-agent": {
+      "version": "1.0.0",
+      "installedAt": 1775081378366
+    },
+    "client-intake-bot-pro": {
+      "version": "1.0.0",
+      "installedAt": 1775084183066
+    },
+    "voiceflow": {
+      "version": "1.0.0",
+      "installedAt": 1775084293824
+    },
+    "lead-scorer": {
+      "version": "1.0.0",
+      "installedAt": 1775084294000
+    },
+    "n8n": {
+      "version": "2.0.0",
+      "installedAt": 1775084294080
+    },
+    "whatsapp-business-api": {
+      "version": "1.0.0",
+      "installedAt": 1775084294702
+    },
+    "real-estate-leads": {
+      "version": "1.0.0",
+      "installedAt": 1775084334757
+    },
+    "markdown": {
+      "version": "1.0.1",
+      "installedAt": 1775085384199
+    },
+    "proposal-writer": {
+      "version": "1.0.0",
+      "installedAt": 1775085384249
+    },
+    "send-email": {
+      "version": "1.0.1",
+      "installedAt": 1775085674177
+    },
+    "sales-pipeline-tracker": {
+      "version": "1.0.0",
+      "installedAt": 1775091383857
+    },
+    "follow-up-sequence-writer": {
+      "version": "1.0.0",
+      "installedAt": 1775091384117
+    },
+    "airtable-automation": {
+      "version": "0.1.0",
+      "installedAt": 1775093851020
+    },
+    "airtable-integration": {
+      "version": "1.0.0",
+      "installedAt": 1775093866233
     }
   }
 }

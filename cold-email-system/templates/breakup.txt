@@ -1,0 +1,12 @@
+Hola {{nombre}},
+
+No quiero ser pesado, así que este será mi último mensaje.
+
+Entiendo que a veces el timing no es el ideal, o quizás la propuesta no encaja con lo que {{agencia}} necesita en este momento.
+
+Si en algún momento quiere conversar sobre automatización de leads, estoy a un email de distancia.
+
+Le deseo mucho éxito a {{agencia}}.
+
+Saludos,
+[Tu Nombre]

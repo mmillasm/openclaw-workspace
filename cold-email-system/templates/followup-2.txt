@@ -1,0 +1,15 @@
+Hola {{nombre}},
+
+No sé si vio mi email anterior, pero quería compartirle un resultado concreto:
+
+Una agencia similar a {{agencia}} en {{zona}} implementó un sistema de respuesta automática de leads hace 2 meses.
+
+Resultados hasta ahora:
+• 40% más visitas agendadas
+• Tiempo de respuesta promedio: 2 minutos
+• 15 horas ahorradas mensualmente por corredor
+
+¿Le gustaría saber cómo funciona? Estoy disponible para una conversación breve esta semana.
+
+Saludos,
+[Tu Nombre]

@@ -1,0 +1,10 @@
+Hola {{nombre}},
+
+Sé que está ocupado, así que solo un mensaje corto:
+
+¿Le interesaría esa conversación de 30 minutos sobre cómo automatizar la atención de leads en {{agencia}}?
+
+Si no es el momento, también me sirve saberlo.
+
+Saludos,
+[Tu Nombre]
