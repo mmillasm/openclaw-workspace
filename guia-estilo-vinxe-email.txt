@@ -1,0 +1,271 @@
+Asunto: Guía de Estilo Vinxe - Identidad de Marca Completa
+
+Hola Ader,
+
+Adjunto la guía completa de identidad de marca de Vinxe para que la uses en la creación del logo y todos los materiales visuales.
+
+═══════════════════════════════════════════════════════════
+🎨 VINXE - GUÍA DE IDENTIDAD DE MARCA
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+1. FUNDAMENTOS DE MARCA
+═══════════════════════════════════════════════════════════
+
+PROPÓSITO DE MARCA:
+"Liberar a los corredores de propiedades del esclavismo del WhatsApp para que vendan más y vivan mejor."
+
+VALORES DE MARCA (3 exactos):
+
+1. EFICIENCIA SIN FRÍO
+   Automatizamos lo repetitivo, pero mantenemos el trato humano donde importa. 
+   La tecnología sirve a las personas, no al revés.
+
+2. CLARIDAD ANTE TODO
+   Sin jerga técnica, sin promesas vacías. Decimos las cosas como son, 
+   en español que cualquier corredor entienda.
+
+3. RESULTADOS MEDIBLES
+   No vendemos "innovación". Vendemos horas recuperadas, clientes atendidos 
+   y comisiones cerradas.
+
+═══════════════════════════════════════════════════════════
+2. PERSONALIDAD DE MARCA
+═══════════════════════════════════════════════════════════
+
+Si Vinxe fuera una persona:
+
+• Es el tipo que llega puntual, con la información preparada, y resuelve 
+  el problema sin drama.
+• No es el más charlatán, pero cuando habla, todos escuchan porque aporta 
+  valor concreto.
+• Se viste profesional pero moderno: traje bien cortado, pero zapatillas 
+  limpias. No es rígido corporativo.
+• Habla claro, directo, sin rodeos. Si puede decirlo en 5 palabras, 
+  no usa 20.
+• Es confiable: si dice que algo va a pasar, pasa.
+
+MATRIZ DE PERSONALIDAD:
+• Serio pero accesible (70/30)
+• Formal pero cercano (60/40)
+• Reservado pero confiado (50/50)
+• Moderno pero no extremo (80/20)
+• Understated pero memorable (70/30)
+
+═══════════════════════════════════════════════════════════
+3. VOZ Y TONO
+═══════════════════════════════════════════════════════════
+
+VOZ DE MARCA (3 adjetivos):
+"Directa, Útil, Humana"
+
+REGLAS DE VOZ:
+
+SIEMPRE:
+✓ Usamos lenguaje que un corredor de 50 años entienda
+✓ Hablamos de beneficios concretos ("3 horas ahorradas")
+✓ Somos honestos sobre lo que hacemos
+✓ Reconocemos el problema antes de ofrecer solución
+✓ Usamos ejemplos reales y casos específicos
+
+NUNCA:
+✗ Jerga técnica ("leads", "API", "scalability")
+✗ Promesas vagas ("transformación digital")
+✗ Exageramos o vendemos humo
+✗ Saltamos directo a vender sin empatizar
+✗ Generalizaciones abstractas
+
+EJEMPLO DE VOZ:
+
+❌ Genérico: "Nuestra plataforma de automatización inteligente utiliza 
+    IA de última generación para optimizar sus flujos..."
+
+✅ Vinxe: "Tu asistente responde WhatsApp por ti. Mientras tú cierras 
+    ventas, él atiende a los que preguntan."
+
+═══════════════════════════════════════════════════════════
+4. IDENTIDAD VISUAL - LOGO
+═══════════════════════════════════════════════════════════
+
+TIPO DE LOGO: WORDMARK PURO
+• Solo tipografía, sin icono, sin símbolo
+• Texto: "vinxe" (SIEMPRE en minúscula)
+
+RESTRICCIONES ABSOLUTAS:
+❌ NUNCA usar "VINXE" en mayúsculas
+❌ NUNCA agregar icono de casa
+❌ NUNCA agregar icono de chat
+❌ NUNCA agregar icono de robot
+❌ NUNCA usar tipografía serif (Times, Georgia)
+❌ NUNCA usar tipografía script/cursiva
+✅ SIEMPRE mantenerlo como texto puro
+
+POR QUÉ MINÚSCULA:
+Las marcas modernas B2B usan minúsculas para ser accesibles. 
+"Vinxe" con mayúscula suena corporativo rígido. 
+"vinxe" suena como alguien que entiende el día a día del corredor.
+
+═══════════════════════════════════════════════════════════
+5. PALETA DE COLORES
+═══════════════════════════════════════════════════════════
+
+COLORES PRINCIPALES:
+
+• Indigo Principal: #6366F1
+  Uso: Botones primarios, links, acentos
+  
+• Indigo Oscuro: #4F46E5
+  Uso: Hover states, énfasis
+  
+• Violeta: #8B5CF6
+  Uso: Gradientes, elementos secundarios
+
+COLORES NEUTROS:
+
+• Negro: #1F2937 (texto principal)
+• Carbón: #374151 (texto secundario)
+• Gris: #6B7280 (texto terciario)
+• Gris claro: #D1D5DB (bordes)
+• Fondo: #F3F4F6
+• Blanco: #FAFAFA / #FFFFFF
+
+COLORES SEMÁNTICOS:
+
+• Éxito: #10B981 (verde)
+• Advertencia: #F59E0B (naranja)
+• Error: #EF4444 (rojo)
+• Info: #3B82F6 (azul)
+
+GRADIENTES:
+
+• Primario: linear-gradient(135deg, #6366F1 0%, #8B5CF6 100%)
+• Hero: linear-gradient(135deg, #6366F1 0%, #8B5CF6 50%, #4F46E5 100%)
+
+═══════════════════════════════════════════════════════════
+6. TIPOGRAFÍA
+═══════════════════════════════════════════════════════════
+
+FUENTE PRINCIPAL: Inter
+
+• Familia: 'Inter', system-ui, sans-serif
+• Estilo: Sans-serif moderna, geométrica, legible
+• Uso: Todo el texto (display y body)
+
+PESOS DISPONIBLES:
+• 400 (Regular) - Cuerpo de texto
+• 500 (Medium) - Énfasis leve
+• 600 (Semibold) - Subtítulos
+• 700 (Bold) - Títulos
+• 800 (Extrabold) - Hero text
+
+TAMAÑOS:
+• Hero: 3rem (48px)
+• H1: 2.25rem (36px)
+• H2: 1.5rem (24px)
+• H3: 1.25rem (20px)
+• Body: 1rem (16px)
+• Small: 0.875rem (14px)
+
+═══════════════════════════════════════════════════════════
+7. APLICACIÓN DEL LOGO
+═══════════════════════════════════════════════════════════
+
+LOGO PRINCIPAL: "vinxe" en minúscula, tipografía Inter Bold/Extrabold
+
+USO EN FONDOS CLAROS:
+• Color: #1F2937 (negro) o #6366F1 (indigo)
+• Fondo blanco o gris claro
+
+USO EN FONDOS OSCUROS:
+• Color: #FAFAFA (blanco) o #6366F1 (indigo)
+• Fondo negro o indigo oscuro
+
+ESPACIO DE RESPIRACIÓN:
+• Margen mínimo alrededor del logo: altura de la "x"
+
+VARIANTES:
+• vinxe (solo texto)
+• vinxe.cl (con dominio, para contextos web)
+• @vinxe.cl (para redes sociales)
+
+═══════════════════════════════════════════════════════════
+8. ELEMENTOS VISUALES
+═══════════════════════════════════════════════════════════
+
+ESTILO DE FOTOGRAFÍA:
+• Fotos de corredores reales en su entorno de trabajo
+• Iluminación natural, no estudio
+• Expresiones auténticas, no posadas forzadas
+• Espacios de trabajo modernos pero no corporativos extremos
+• Preferir fotos con profundidad de campo (bokeh suave)
+
+ESTILO DE ILUSTRACIÓN:
+• Líneas limpias, estilo "flat" moderno
+• Colores de la paleta Vinxe
+• Figuras humanas simplificadas pero expresivas
+• Sin gradientes complejos en ilustraciones
+
+ICONOGRAFÍA:
+• Estilo: Línea (outline), 2px stroke
+• Esquinas: Redondeadas (rounded)
+• Tamaño consistente: 24px default
+
+═══════════════════════════════════════════════════════════
+9. NO's ABSOLUTOS
+═══════════════════════════════════════════════════════════
+
+NUNCA HACER:
+
+❌ Logo: No iconos de casa, chat, o robot
+❌ Logo: No mayúsculas (VINXE o Vinxe)
+❌ Logo: No efectos 3D, sombras, o brillos
+❌ Colores: No usar naranja como color principal
+❌ Colores: No usar rojo excepto para errores
+❌ Tipografía: No usar serif (Times, Georgia)
+❌ Tipografía: No usar script/cursiva
+❌ Tipografía: No más de 2 fuentes
+❌ Imágenes: No stock photos genéricos de agentes sonriendo
+❌ Imágenes: No fondos de gradientes complejos
+❌ Tono: No jerga técnica ni corporativa rígida
+❌ Tono: No promesas exageradas
+
+═══════════════════════════════════════════════════════════
+10. EJEMPLOS DE USO
+═══════════════════════════════════════════════════════════
+
+TARJETA DE PRESENTACIÓN:
+• Fondo blanco
+• Logo "vinxe" en indigo (#6366F1) o negro (#1F2937)
+• Tipografía Inter para nombre y datos
+• Espacio limpio, no saturado
+
+PERFIL INSTAGRAM:
+• Foto: Logo "vinxe" en gradiente indigo-violeta
+• O alternativa: "@vinxe.cl" en tipografía Inter
+• Bio: Directa y clara (ver ejemplos en guía voz)
+
+WEBSITE:
+• Hero: Gradiente indigo-violeta con texto blanco
+• Logo: "vinxe" en blanco sobre fondo oscuro
+• CTA buttons: Indigo con hover a indigo oscuro
+
+═══════════════════════════════════════════════════════════
+
+ARCHIVOS RELACIONADOS:
+
+• vinxe-brand-identity.md - Identidad completa
+• vinxe-design-tokens.css - Tokens de diseño CSS
+• vinxe-tailwind.config.js - Configuración Tailwind
+• vinxe-voice-guide.md - Guía de voz por canal
+
+═══════════════════════════════════════════════════════════
+
+¿Preguntas sobre la guía de estilo? Escríbeme por Telegram o responde a este email.
+
+Saludos,
+CyberClaw
+Vinxe - Asistentes Virtuales para Corredores
+
+---
+Guía generada: 3 de abril de 2026
+Versión: 1.0

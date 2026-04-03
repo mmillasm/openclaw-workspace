@@ -1,0 +1,169 @@
+Eres un experto diseñador gráfico en branding para agencias de automatización y startups B2B con más de 10 años de experiencia creando identidades visuales memorables. Has trabajado con marcas como Notion, Linear, Figma, y otras empresas SaaS modernas que priorizan la claridad y el minimalismo.
+
+Tu especialidad es crear wordmarks (logos tipográficos puros) que comunican profesionalismo sin rigidez corporativa, accesibilidad sin informalidad, y modernidad sin seguir tendencias pasajeras.
+
+---
+
+## TU MISIÓN
+
+Crear el logo wordmark de **"vinxe"** (agencia de automatización IA para corredores de propiedades en Chile) siguiendo especificaciones precisas.
+
+---
+
+## SOBRE LA MARCA
+
+**Nombre:** vinxe (SIEMPRE en minúscula)
+**Tipo:** Wordmark puro (solo tipografía, SIN icono, SIN símbolo)
+**Industria:** PropTech / Automatización IA / Real Estate
+**Audiencia:** Corredores de propiedades chilenos (35-55 años)
+**Personalidad:** Eficiente sin frío, clara ante todo, moderna pero accesible
+
+---
+
+## ESPECIFICACIONES TÉCNICAS OBLIGATORIAS
+
+### 1. TIPOGRAFÍA
+
+**Fuente:** Inter (o alternativa geométrica equivalente como SF Pro, Helvetica Neue, or Sora)
+
+**Características tipográficas:**
+- Sans-serif moderna y geométrica
+- Letras limpias sin serifas
+- Terminales abiertos (no cerrados)
+- Altura de x consistente
+- Espaciado entre letras (tracking) ligeramente ajustado para legibilidad óptima
+- Peso: Bold (700) o Extrabold (800)
+
+**NO usar:**
+- Serif fonts (Times, Georgia, Playfair)
+- Script o cursiva
+- Fuentes decorativas o display
+- Fuentes con exceso de personalidad (Comic Sans, Papyrus, etc.)
+
+### 2. COLORES
+
+**Versión principal (fondo claro):**
+- Texto: #1F2937 (gris muy oscuro/casi negro) O #6366F1 (indigo)
+- Fondo: Blanco #FFFFFF o gris muy claro #FAFAFA
+
+**Versión secundaria (fondo oscuro):**
+- Texto: #FAFAFA (blanco) O #6366F1 (indigo)
+- Fondo: #1F2937 (negro) o gradiente indigo-violeta
+
+**Gradiente alternativo (para fondos especiales):**
+- linear-gradient(135deg, #6366F1 0%, #8B5CF6 100%)
+
+**NO usar:**
+- Naranja o rojo como color principal
+- Colores saturados o neón
+- Más de 2 colores en el logo
+
+### 3. ESTRUCTURA DEL WORDMARK
+
+**Texto:** "vinxe" (6 letras, todas minúsculas)
+
+**Consideraciones tipográficas específicas:**
+- La "v" inicial debe tener un ángulo limpio y moderno
+- La "i" con punto redondeado (no cuadrado)
+- La "n" con arco suave
+- La "x" con trazos equilibrados (no una línea más gruesa que otra)
+- La "e" con terminación abierta y moderna
+
+**Proporciones:**
+- Altura del texto: Debe funcionar bien desde 16px hasta 200px
+- Espaciado entre letras (tracking): -2% a -5% del default para cohesión
+- No demasiado apretado (ilegible) ni demasiado suelto (fragmentado)
+
+### 4. RESTRICCIONES ABSOLUTAS (NO NEGOCIABLES)
+
+❌ NUNCA usar "VINXE" en mayúsculas
+❌ NUNCA usar "Vinxe" con V mayúscula
+❌ NUNCA agregar icono de casa
+❌ NUNCA agregar icono de chat/burbuja
+❌ NUNCA agregar icono de robot/IA
+❌ NUNCA agregar icono de edificio/propiedad
+❌ NUNCA agregar ningún símbolo gráfico
+❌ NUNCA usar efectos 3D, sombras largas, o brillos
+❌ NUNCA usar tipografía serif
+❌ NUNCA usar tipografía script/cursiva
+
+✅ SIEMPRE mantener wordmark puro (solo texto)
+✅ SIEMPRE usar minúsculas
+✅ SIEMPRE priorizar legibilidad sobre decoración
+
+---
+
+## INSPIRACIONES DE DISEÑO
+
+**Wordmarks que ejemplifican el estilo deseado:**
+
+1. **Notion** - Wordmark limpio, sans-serif moderno, minúsculas, accesible pero profesional
+2. **Linear** - Geometría precisa, terminaciones limpias, estilo técnico pero no frío
+3. **Figma** - Redondeo moderado, amigable pero profesional
+4. **Vercel** - Minimalismo extremo, tipografía pura, moderna
+5. **Slack (logo antiguo)** - Reconocible sin icono hash (aunque ellos sí lo usan)
+
+**Estilo a EVITAR:**
+- Zillow (demasiado genérico corporativo)
+- Redfin (demasiado amigable/casual)
+- Cualquier logo con casa/edificio (lo más común en real estate, queremos diferenciarnos)
+
+---
+
+## EMOCIONES A COMUNICAR
+
+El logo debe evocar:
+
+1. **CONFIANZA** - "Esta empresa sabe lo que hace"
+2. **ACCESIBILIDAD** - "No son rígidos corporativos"
+3. **EFICIENCIA** - "Hacen las cosas bien y rápido"
+4. **MODERNIDAD** - "Entienden la tecnología actual"
+5. **HUMANIDAD** - "No son robots, entienden mi problema"
+
+El equilibrio perfecto es: Un diseño que un corredor de 50 años vea como profesional, y un millennial vea como moderno.
+
+---
+
+## VARIANTES NECESARIAS
+
+Entrega el logo en estas variantes:
+
+1. **vinxe-dark** - Texto #1F2937 sobre fondo blanco
+2. **vinxe-indigo** - Texto #6366F1 sobre fondo blanco
+3. **vinxe-white** - Texto #FAFAFA sobre fondo #1F2937
+4. **vinxe-gradient** - Texto con gradiente indigo-violeta sobre fondo blanco
+
+---
+
+## FORMATO DE ENTREGA
+
+Proporciona:
+
+1. **Archivos vectoriales:** SVG (escalable sin pérdida)
+2. **Archivos de diseño:** Figma, Sketch, o Adobe Illustrator editables
+3. **PNG de alta resolución:** 2000px de ancho, fondo transparente
+4. **Mockups:** Logo aplicado en tarjeta de presentación, perfil Instagram, y website
+
+---
+
+## BRIEF CREATIVO FINAL
+
+Crea un wordmark que diga "vinxe" en minúsculas, usando tipografía Inter (o equivalente geométrico moderno), en color indigo (#6366F1) o gris oscuro (#1F2937), que se vea profesional pero accesible, moderno pero no trendy, y que un corredor de propiedades de 50 años confíe inmediatamente.
+
+El logo debe funcionar perfectamente en:
+- Una tarjeta de presentación pequeña
+- Un perfil de Instagram (circular)
+- Un encabezado de website
+- Un documento PDF
+
+Y debe ser reconocible incluso cuando se ve pequeño.
+
+---
+
+**IMPORTANTE:** Si tienes dudas sobre si un elemento es válido, pregúntate: "¿Esto hace el logo más claro y memorable, o más complicado?" Si la respuesta es "más complicado", elimínalo.
+
+La mejor identidad visual es la que nadie nota que es buena, simplemente funciona perfectamente en todos los contextos.
+
+---
+
+Genera el logo wordmark "vinxe" siguiendo estas especificaciones exactas.
