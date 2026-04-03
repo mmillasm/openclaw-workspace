@@ -162,11 +162,33 @@
 
 #### 6.2 Estrategia de Contenido 360°
 
-| Archivo | Descripción | Estado |
-|---------|-------------|--------|
-| `vinxe-content-strategy.md` | Estrategia completa 90 días (20K+ palabras) | ✅ |
-| `vinxe-instagram-contenido.md` | Contenido Semana 1 específico | ✅ |
-| `lead-magnets/` | Carpeta con 4 recursos gratuitos | ✅ |
+| Archivo | Descripción | Estado | Presupuesto |
+|---------|-------------|--------|-------------|
+| `vinxe-content-strategy.md` | Estrategia completa v2.0 (fuentes 2026) | ✅ | $650-950 |
+| `vinxe-content-strategy-bootstrap.md` | **Versión Bootstrap** - $50/mes | ✅ | **$50/mes** ⭐ |
+| `vinxe-content-strategy-revision-fuentes.md` | Análisis de fuentes 2026 | ✅ | - |
+| `vinxe-instagram-contenido.md` | Contenido Semana 1 específico | ✅ | - |
+| `lead-magnets/` | Carpeta con 4 recursos gratuitos | ✅ | - |
+
+**🎯 ESTRATEGIA ACTIVA: VERSIÓN BOOTSTRAP ($50/mes)**
+
+Dado el presupuesto limitado, se adopta la estrategia Bootstrap enfocada en:
+- SEO orgánico como motor principal (tráfico gratis a largo plazo)
+- Outreach directo (cold emails + comunidades)
+- Contenido evergreen de alto valor
+- Micro-boosts estratégicos ($5/semana)
+
+**Metas realistas 90 días (Bootstrap):**
+- 10-15 leads generados
+- 150-250 seguidores Instagram
+- 100-200 visitas/mes orgánicas
+- 50-100 email subscribers
+
+**Distribución $50/mes:**
+- Canva Pro: $13
+- Micro-boost Instagram: $20 (1 Reel/semana)
+- Herramientas: $10
+- Reserva: $7
 
 **Lead Magnets creados (todos sin jerga técnica):**
 
