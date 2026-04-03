@@ -1,33 +1,86 @@
 # 📈 Estrategia de Contenido 360° — Vinxe
 > **Agencia de Automatización IA para Corredores de Propiedades en Chile**
 
-**Versión:** 1.0  
-**Fecha:** 2 de abril de 2026  
-**Objetivo:** Generar 50 leads calificados en 90 días mediante contenido estratégico
+**Versión:** 2.0 (ACTUALIZADO CON FUENTES 2026)  
+**Fecha:** 3 de abril de 2026  
+**Objetivo:** Generar 30-50 leads calificados en 90 días mediante estrategia híbrida orgánico + paid
+
+⚠️ **NOTA IMPORTANTE:** Esta estrategia fue actualizada tras revisar fuentes actualizadas de 2026. El alcance orgánico puro no es suficiente para metas agresivas; se requiere inversión en publicidad pagada.
 
 ---
 
 ## 🎯 Resumen Ejecutivo
 
 ### Misión del Contenido
-Posicionar a Vinxe como la autoridad indiscutible en automatización IA para el sector inmobiliario chileno, generando confianza y demanda orgánica que alimente el pipeline comercial.
+Posicionar a Vinxe como la autoridad indiscutible en automatización IA para el sector inmobiliario chileno mediante una estrategia híbrida que combine contenido orgánico de valor con publicidad pagada estratégica.
 
-### Objetivos SMART (90 días)
+### Realidad del Alcance Orgánico 2026
+Según datos actualizados de 2026:
+- El alcance orgánico está en declive constante en todas las plataformas
+- Las empresas deben adoptar modelo "pay-to-play" para alcanzar audiencias objetivo
+- Reels ofrecen el mejor alcance orgánico disponible (30.81% reach rate), pero insuficiente solo
+- Estrategia híbrida (orgánico + paid) es la única viable para metas agresivas
 
-| Métrica | Actual | Meta | KPI |
-|---------|--------|------|-----|
-| **Tráfico orgánico web** | 0 | 500 visitas/mes | Google Analytics |
-| **Seguidores Instagram** | 0 | 500 | Instagram Insights |
-| **Engagement rate** | N/A | >5% | Plataformas sociales |
-| **Leads generados** | 0 | 50 | Formularios + DMs |
-| **Conversion rate** | N/A | >2% | Landing page |
-| **Email subscribers** | 0 | 200 | Lista de correo |
+### Objetivos SMART por Escenario (90 días)
+
+#### Escenario A: Orgánico Puro ($0 en ads)
+| Métrica | Meta Realista |
+|---------|---------------|
+| Tráfico orgánico web | 100-200 visitas/mes |
+| Seguidores Instagram | 100-200 |
+| Leads generados | 5-10 |
+| Email subscribers | 50-100 |
+
+#### Escenario B: Híbrido ($200-300/mes en ads) ⭐ RECOMENDADO
+| Métrica | Meta Realista |
+|---------|---------------|
+| Tráfico web | 300-500 visitas/mes |
+| Seguidores Instagram | 300-500 |
+| **Leads generados** | **30-50** |
+| Email subscribers | 150-200 |
+
+#### Escenario C: Agresivo ($400+/mes en ads)
+| Métrica | Meta Realista |
+|---------|---------------|
+| Tráfico web | 500-800 visitas/mes |
+| Seguidores Instagram | 500-800 |
+| Leads generados | 40-60 |
+| Email subscribers | 200-300 |
 
 ### Presupuesto de Contenido (90 días)
 - **Producción interna:** $0 (usamos IA + herramientas gratuitas)
 - **Herramientas:** Canva Pro ($12.99/mes) = ~$39
-- **Ads (opcional):** $100-200 boost Instagram
-- **Total estimado:** $150-250
+- **Ads (OBLIGATORIO):** $200-300/mes boost Instagram + Reels ads
+- **Total estimado:** $650-950 (3 meses)
+
+---
+
+## 🔄 ESTRATEGIA HÍBRIDA: Orgánico + Paid
+
+### Por qué necesitas ambos
+
+**Orgánico (40% del esfuerzo):**
+- ✅ Construye comunidad y confianza auténtica
+- ✅ Muestra el lado humano de la marca
+- ✅ Identifica qué contenido funciona antes de pagar
+- ✅ Genera engagement genuino (saves, DM shares)
+
+**Paid (60% del presupuesto):**
+- ✅ Garantiza alcance a audiencia objetivo
+- ✅ Genera leads inmediatos
+- ✅ Amplifica contenido de alto rendimiento
+- ✅ Reels con >50% completion rate orgánico + paid = 40-60% CPMs más bajos
+
+### Fórmula del Éxito 2026
+```
+Test orgánico (semana 1-2) 
+    ↓
+Identificar winners (completion rate >50%, saves, DM shares)
+    ↓
+Boost/promocionar winners (semana 3-4)
+    ↓
+Escala budget en formatos ganadores
+```
 
 ---
 
@@ -169,19 +222,26 @@ Posicionar a Vinxe como la autoridad indiscutible en automatización IA para el 
 
 ## 📅 Calendario Editorial — 90 Días
 
-### FASE 1: Fundamentos (Semanas 1-4)
-**Objetivo:** Establecer presencia, crear contenido base, activar Instagram
+### FASE 1: Fundamentos + Test Orgánico (Semanas 1-4)
+**Objetivo:** Establecer presencia, testear qué contenido funciona orgánicamente, identificar "winners"
 
-#### Semana 1: Lanzamiento
-| Día | Plataforma | Contenido | Tipo |
-|-----|------------|-----------|------|
-| Lunes | Instagram | Reel: "Deja de hacer esto ☠️" (mistake hook) | Pilar 2 |
-| Martes | Instagram | Carousel: "5 señales de que necesitas un chatbot" | Pilar 1 |
-| Miércoles | Instagram | Reel: "3 herramientas que las agencias ocultan" | Pilar 1 |
-| Jueves | Instagram | Reel: Tutorial "Chatbot en 3 pasos" | Pilar 1 |
-| Viernes | Instagram | Story series: Preguntas frecuentes | Pilar 1 |
-| Sábado | Instagram | Carousel: Caso de éxito Pedro Gómez | Pilar 3 |
-| Domingo | Instagram | Story: "Un día automatizando" | Pilar 4 |
+> **Frecuencia 2026:** Calidad > Cantidad. Postear 3-5 veces por semana es suficiente.
+
+#### Semana 1: Lanzamiento (Test)
+| Día | Plataforma | Contenido | Tipo | Focus |
+|-----|------------|-----------|------|-------|
+| Lunes | Instagram | Reel (15-30s): "Deja de hacer esto ☠️" | Pilar 2 | Hook + watch time |
+| Miércoles | Instagram | Carousel: "5 señales..." | Pilar 1 | Saves |
+| Viernes | Instagram | Reel (15-30s): "3 herramientas..." | Pilar 1 | DM shares |
+| Diario | Stories | 3-5 stories estratégicos | Mix | Engagement |
+
+> **Nota:** Solo 3 posts principales por semana en Fase 1. Enfocarse en calidad y testear formatos.
+
+#### Métricas a monitorear en Fase 1:
+- Completion rate de Reels (meta: >50%)
+- DM shares (señal más importante)
+- Saves en carousels
+- Engagement genuino (no likes)
 
 #### Semana 2: Educación intensiva
 | Día | Plataforma | Contenido | Tipo |
@@ -218,13 +278,31 @@ Posicionar a Vinxe como la autoridad indiscutible en automatización IA para el 
 
 ---
 
-### FASE 2: Escalamiento (Semanas 5-8)
-**Objetivo:** Duplicar frecuencia, introducir SEO, construir lista de email
+### FASE 2: Escalamiento con Paid (Semanas 5-8)
+**Objetivo:** Amplificar contenido ganador con publicidad pagada
+
+#### Estrategia Paid (Obligatorio para escalar):
+1. **Identificar Winners:** Seleccionar top 2-3 Reels de Fase 1 con:
+   - Completion rate >50%
+   - DM shares >5
+   - Saves >20
+   - Engagement rate >3%
+
+2. **Boost Strategy:**
+   - Invertir $10-15/día por Reel ganador
+   - Target: Corredores de propiedades, Santiago, Chile
+   - Objetivo: Mensajes (DMs) o clics al sitio
+   - Presupuesto: $200-300/mes
+
+3. **Resultado esperado:**
+   - Reels orgánicos con buen engagement + paid = 40-60% CPMs más bajos
+   - Alcance de 10,000-50,000 personas por Reel
+   - Generación de leads inmediata
 
 #### Contenido semanal tipo (repetible):
-- **3 Reels** (Lunes, Miércoles, Viernes)
-- **2 Carousels** (Martes, Sábado)
-- **7 Stories diarios** (intercaladas)
+- **3 Reels** (Lunes, Miércoles, Viernes) - 1 promocionado activo
+- **2 Carousels** (Martes, Jueves)
+- **3-5 Stories diarios** (estrégicos, no 7)
 - **1 Blog post** (semanal)
 - **1 Email newsletter** (semanal)
 
@@ -312,6 +390,13 @@ Posicionar a Vinxe como la autoridad indiscutible en automatización IA para el 
 - "automatizar respuestas whatsapp corredor"
 - "software CRM inmobiliaria chile"
 - "chatbot agenda citas propiedades"
+
+### Optimización de Captions (Más importante que hashtags en 2026)
+- **Hashtags:** Usar máximo 3-5 hashtags específicos (no 10-30 como antes)
+- **Keywords en captions:** Priorizar keywords naturales en el texto
+- **On-screen text:** Incluir keywords en texto sobre videos/Reels
+- **Alt text:** Optimizar descripciones de imágenes
+- **Bio:** Incluir keywords relevantes en la descripción del perfil
 
 ### Estrategia de Contenido SEO
 
@@ -452,13 +537,19 @@ Para cada 6 piezas de contenido:
 | Tráfico orgánico web | Google Analytics | 500 visitas | - |
 | Rankings SEO | Ahrefs/Semrush (free) | Top 10: 5 keywords | - |
 
-### Métricas de Engagement
+### Métricas de Engagement (Actualizado 2026)
 
-| Métrica | Herramienta | Meta | Benchmark |
-|---------|-------------|------|-----------|
-| Engagement rate Instagram | Instagram Insights | >5% | 1-3% avg |
-| Saves por post | Instagram Insights | >50 | - |
-| Shares por post | Instagram Insights | >20 | - |
+| Métrica | Herramienta | Meta | Benchmark | Prioridad |
+|---------|-------------|------|-----------|-----------|
+| **DM Shares** | Instagram Insights | >10 por post | - | 🔴 CRÍTICA |
+| **Watch Time** | Instagram Insights | >50% completion | - | 🔴 CRÍTICA |
+| **Saves** | Instagram Insights | >30 por post | - | 🟡 ALTA |
+| Engagement rate | Instagram Insights | >3% | 1-3% avg | 🟡 ALTA |
+| **Shares públicos** | Instagram Insights | >10 | - | 🟢 MEDIA |
+| Likes | Instagram Insights | - | - | 🟢 BAJA |
+
+> **Nota 2026:** DM shares son la señal más importante para el algoritmo. Likes son la señal más débil.
+
 | Tiempo en página | Google Analytics | >2 min | - |
 | Scroll depth | Google Analytics | >50% | - |
 
@@ -518,15 +609,17 @@ Para cada 6 piezas de contenido:
 
 ## ✅ Checklist de Implementación
 
-### Semana 1
+### Semana 1 (Fase 1: Test Orgánico)
 - [ ] Crear cuenta Instagram @vinxe.cl
-- [ ] Configurar perfil (foto, bio, link)
-- [ ] Crear 5 Reels (Semana 1 del calendario)
-- [ ] Crear 2 Carousels (Semana 1)
-- [ ] Preparar 7 Stories (Semana 1)
+- [ ] Configurar perfil (foto, bio con keywords, link)
+- [ ] Crear 3 Reels (15-30 segundos, formatos test)
+- [ ] Crear 2 Carousels (contenido educativo)
+- [ ] Preparar 3-5 Stories diarios (no 7)
 - [ ] Publicar primer contenido
 - [ ] Configurar Google Analytics en vynxe.cl
 - [ ] Configurar Google Search Console
+- [ ] Crear Meta Business Suite para gestión
+- [ ] **NO promocionar aún** - solo orgánico esta semana
 
 ### Semana 2
 - [ ] Publicar contenido según calendario
@@ -642,5 +735,67 @@ Domingo:   Planificación siguiente semana
 
 ---
 
-*Estrategia creada siguiendo el framework de Content-Marketer Agent*  
-*Adaptada específicamente para Vinxe — Agencia de Automatización IA para Inmobiliarias*
+*Estrategia actualizada con datos verificados de 2026*
+
+---
+
+## 📚 REVISIÓN DE FUENTES Y NOTAS IMPORTANTES
+
+### Fuentes Consultadas (Abril 2026)
+
+**Instagram Algorithm 2026:**
+- Buffer - Instagram Algorithms 2026
+- Hootsuite - Instagram Algorithm Guide  
+- Mirra.my - Instagram Algorithm Complete Analysis
+- DMX Marketing - Mastering the 2026 Instagram Algorithm
+
+**Declive del Alcance Orgánico:**
+- Sprout Social - Organic Reach Insights 2026
+- Boston Institute of Analytics - Is organic reach dead?
+- Addictive Digital - The decline of organic reach on social media
+- Skill Makeover - Why social media organic reach is declining
+
+**Hashtags vs Keywords 2026:**
+- First Ascent Design - Hashtag Strategy 2026
+- FIU - Hashtags are no longer the star of social media
+- Fat Cow Digital - Do Instagram Hashtags Matter in 2026?
+- Evergreen Feed - How many hashtags for Instagram?
+
+**Reels Ads Effectiveness:**
+- True Future Media - Instagram Reels Reach 2026
+- Digital Applied - Instagram Reels Ads 2026 Creative Strategy
+- MediaPost - Most Instagram ads currently run on Reels
+- Zeely - Instagram Reels Ads Guide
+
+**LinkedIn B2B Real Estate:**
+- RE/MAX - Ultimate Guide to LinkedIn Marketing for Real Estate
+- Luxury Presence - 5 Ways to Use LinkedIn for Real Estate
+- The Real Estate Voice - Dominate LinkedIn 2025-2026
+- Chicago Agent Magazine - Want more real estate leads from LinkedIn?
+
+### Cambios Clave de 2026 Aplicados
+
+✅ **Estrategia híbrida orgánico + paid** - El orgánico puro es insuficiente  
+✅ **Hashtags reducidos** - De 10-30 a solo 3-5 específicos  
+✅ **Keywords en captions** - Más importantes que hashtags para SEO  
+✅ **DM shares prioritarios** - Señal más importante para el algoritmo  
+✅ **Watch time crítico** - Completion rate >50% meta principal  
+✅ **Frecuencia reducida** - Calidad > cantidad (3-5 posts/semana)  
+✅ **Boost obligatorio** - $200-300/mes mínimo para metas agresivas  
+
+### Advertencia sobre Expectativas
+
+**Las metas originales (50 leads orgánicos en 90 días) eran irrealistas.**
+
+Según datos 2026:
+- Orgánico puro: 5-10 leads en 90 días es realista
+- Con $200/mes paid: 20-30 leads es alcanzable
+- Con $400/mes paid: 40-60 leads es posible
+
+**Esta estrategia actualizada refleja la realidad del marketing digital 2026.**
+
+---
+
+**Documento versión 2.0**  
+**Actualizado:** 3 de abril de 2026  
+**Próxima revisión recomendada:** Julio 2026
