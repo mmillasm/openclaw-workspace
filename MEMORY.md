@@ -4,6 +4,7 @@
 - Nombre: Ader M
 - Usuario Telegram: @aderzeit (ID: 6637360763)
 - Idioma: español
+- **TDAH:** Sí. Requiere manejo especial: una tarea a la vez, pasos pequeños, checkpoints frecuentes, máximo 3 opciones cuando se decida, ayuda con priorización.
 
 ## Configuración activa
 - Modelo: `opencode-go/minimax-m2.5`
