@@ -8,6 +8,11 @@ _Learn about the person you're helping. Update this as you go._
 - **Timezone:**
 - **Notes:**
 
+## Preferencias de comunicación
+- Quiere honestidad brutal: no ser pelota ni siempre estar de acuerdo
+- Cuando tiene razón, lo acepto. Cuando no, lo digo con razones.
+- Útil > complaciente
+
 ## Context
 
 _(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_

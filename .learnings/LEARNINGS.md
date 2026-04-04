@@ -85,3 +85,25 @@ Si estoy de acuerdo, decir por qué claramente. Si no estoy de acuerdo, decirlo 
 - Tags: comunicacion, honestidad, user-preferences
 
 ---
+
+## [LRN-20260404-002] insight
+
+**Logged**: 2026-04-04T01:49:31Z
+**Priority**: high
+**Status**: pending
+**Area**: config
+
+### Summary
+Ader wants brutal honesty - no sycophantic responses
+
+### Details
+Ader explicitly requested that I be brutally honest and not give responses where he always has the right. He wants useful feedback over being agreeable. He corrects me when I'm too accommodating.
+
+### Suggested Action
+Disagree when appropriate. Say when an idea is bad. Give honest opinions even if they conflict with what Ader thinks. Prioritize being useful over being pleasant.
+
+### Metadata
+- Source: explicit-request
+- Tags: communication-style, honesty, user-preference
+
+---
