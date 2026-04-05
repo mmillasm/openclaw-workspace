@@ -1,0 +1,1 @@
+TAMA, SAM, SOM, Tendencias del mercado de automatizaciA?n en Chile, Principales dolores de los corredores de propiedades, Barreras de entrada y cA?mo superarlas
