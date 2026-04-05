@@ -452,6 +452,13 @@ Los $50 mensuales son exclusivamente para publicidad pagada. Las herramientas (C
 | Retail | ⏳ Pendiente | ✅ Listo | ✅ Listo | ✅ Listo |
 | Services | ⏳ Pendiente | ✅ Listo | ✅ Listo | ✅ Listo |
 
+| Vertical | Landing | Email Frío | Instagram | Flujo Bot |
+|----------|---------|------------|-----------|-----------|
+| Inmobiliarias | ✅ Listo | ✅ Listo | ✅ Listo | ✅ Listo |
+| Salud | ⏳ Pendiente | ✅ Listo | ✅ Listo | ✅ Listo |
+| Retail | ⏳ Pendiente | ✅ Listo | ✅ Listo | ✅ Listo |
+| Services | ⏳ Pendiente | ✅ Listo | ✅ Listo | ✅ Listo |
+
 ---
 
 ## 📝 Notas de la Sesión Actual

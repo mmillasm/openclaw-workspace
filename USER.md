@@ -1,1 +1,1 @@
-{"lang": "es"}
+{"lang": "es", "model": "nvidia/meta/llama-3.1-70b-instruct"}

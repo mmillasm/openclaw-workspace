@@ -352,5 +352,187 @@
 
 ---
 
+---
+
+## 📚 ANEXO: Manejo de Preguntas Complejas y Derivación a Humano
+
+> Sección basada en investigación de mejores prácticas. Adaptada al contexto inmobiliario chileno.
+
+### Preguntas que el Bot SÍ Puede Responder
+
+Son las que están dentro de su base de conocimientos y flujos definidos:
+
+- **Sobre propiedades específicas:** ubicación, precio, metros cuadrados, número de habitaciones, amenidades, fotos, video tours, planos.
+- **Sobre disponibilidad:** "¿Está disponible el de 2 habitaciones?", "¿Cuáles tienen cochera?"
+- **Sobre proceso de compra/renta:** documentos necesarios, requisitos, pasos generales.
+- **Sobre financiamiento básico:** existencia de opciones de crédito, bancos asociados, esquemas de pago.
+- **Sobre agendamiento:** agendar visitas, pedir información de contacto, horarios de atención.
+- **Sobre proyectos:** nombre del desarrollo, etapas, fecha estimada de entrega.
+- **FAQs frecuentes:** "¿Aceptan mascotas?", "¿Tiene internet?", "¿Qué incluye el mantenimiento?"
+
+### Preguntas que el Bot NO Puede Responder (Derivar a Humano)
+
+Son las que están **fuera de su alcance** o requieren juicio humano:
+
+- **Negociación de precio:** "¿Me pueden hacer un 10% de descuento?"
+- **Casos personales del cliente:** "Estoy divorciándome, ¿cómo me conviene comprar?"
+- **Comparaciones complejas:** "¿Qué me conviene más, este desarrollo o el de otra zona?"
+- **Situaciones legales específicas:** preguntas sobre trámites legales particulares.
+- **Información financiera detallada:** montos exactos de mensualidades con seguros incluidos.
+- **Reclamaciones o quejas:** "El departamento que me rentaron tiene filtraciones."
+- **Propiedades no listadas:** "¿Tienen algo en otra zona que no sea la que buscan?"
+- **Consultas sobre la competencia:** "¿Ustedes son mejores que [otra inmobiliaria]?"
+
+### Plantillas de Derivación
+
+#### Cuando no sabe la respuesta:
+```
+Entiendo tu pregunta. 😊
+Esa información no la tengo disponible en este momento,
+pero un asesor puede responderte con todos los detalles.
+
+¿Prefieres que te derive con uno?
+```
+
+#### Cuando el bot no entiende:
+```
+Disculpa, no logré entender tu mensaje.
+¿Podrías reformularlo o darme más contexto?
+
+Mientras tanto, te dejo estas opciones:
+1️⃣ Preguntarme algo específico sobre una propiedad
+2️⃣ Derivar a un asesor que pueda ayudarte mejor
+```
+
+#### Cuando se detecta frustración:
+```
+Lamento que estés teniendo esa experiencia. 😔
+Entiendo que necesitas una respuesta clara.
+Voy a conectarte con un asesor que puede ayudarte de forma personalizada.
+```
+
+#### Mensaje de cierre al derivar:
+```
+Perfecto, estás siendo derivado a uno de nuestros asesores.
+Para que te ayude más rápido, te comparte un resumen de tu consulta:
+
+"[Resumen de lo que el cliente preguntó]"
+
+Te contactaremos pronto. 🙏
+```
+
+### Regla de los 3 — Mejora Continua
+
+Si la misma pregunta llega **3 veces** sin estar entrenada, se agrega a la base de conocimientos.
+
+**Proceso:**
+1. Registrar todas las derivaciones
+2. Análisis semanal (30-60 min)
+3. Agregar las 5 preguntas más frecuentes
+4. Probar antes de activar
+
+### Clasificación de Preguntas
+
+| Categoría | El Bot Puede... |
+|-----------|------------------|
+| **Pregunta frecuente y entrenada** | Responder directo |
+| **Pregunta frecuente pero no entrenada** | Reformular y derivar |
+| **Pregunta infrecuente pero objetiva** | Responder si tiene base amplia |
+| **Pregunta infrecuente y subjetiva** | Derivar a humano |
+| **Pregunta fuera del nicho inmobiliario** | Derivar o declinar |
+
+---
+
+---
+
+## 📚 ANEXO: Manejo de Preguntas Complejas y Derivación a Humano
+
+> Sección basada en investigación de mejores prácticas. Adaptada al contexto inmobiliario chileno.
+
+### Preguntas que el Bot SÍ Puede Responder
+
+Son las que están dentro de su base de conocimientos y flujos definidos:
+
+- **Sobre propiedades específicas:** ubicación, precio, metros cuadrados, número de habitaciones, amenidades, fotos, video tours, planos.
+- **Sobre disponibilidad:** "¿Está disponible el de 2 habitaciones?", "¿Cuáles tienen cochera?"
+- **Sobre proceso de compra/renta:** documentos necesarios, requisitos, pasos generales.
+- **Sobre financiamiento básico:** existencia de opciones de crédito, bancos asociados, esquemas de pago.
+- **Sobre agendamiento:** agendar visitas, pedir información de contacto, horarios de atención.
+- **Sobre proyectos:** nombre del desarrollo, etapas, fecha estimada de entrega.
+- **FAQs frecuentes:** "¿Aceptan mascotas?", "¿Tiene internet?", "¿Qué incluye el mantenimiento?"
+
+### Preguntas que el Bot NO Puede Responder (Derivar a Humano)
+
+Son las que están **fuera de su alcance** o requieren juicio humano:
+
+- **Negociación de precio:** "¿Me pueden hacer un 10% de descuento?"
+- **Casos personales del cliente:** "Estoy divorciándome, ¿cómo me conviene comprar?"
+- **Comparaciones complejas:** "¿Qué me conviene más, este desarrollo o el de otra zona?"
+- **Situaciones legales específicas:** preguntas sobre trámites legales particulares.
+- **Información financiera detallada:** montos exactos de mensualidades con seguros incluidos.
+- **Reclamaciones o quejas:** "El departamento que me rentaron tiene filtraciones."
+- **Propiedades no listadas:** "¿Tienen algo en otra zona que no sea la que buscan?"
+- **Consultas sobre la competencia:** "¿Ustedes son mejores que [otra inmobiliaria]?"
+
+### Plantillas de Derivación
+
+#### Cuando no sabe la respuesta:
+```
+Entiendo tu pregunta. 😊
+Esa información no la tengo disponible en este momento,
+pero un asesor puede responderte con todos los detalles.
+¿Prefieres que te derive con uno?
+```
+
+#### Cuando el bot no entiende:
+```
+Disculpa, no logré entender tu mensaje.
+¿Podrías reformularlo o darme más contexto?
+Mientras tanto, te dejo estas opciones:
+1️⃣ Preguntarme algo específico sobre una propiedad
+2️⃣ Derivar a un asesor que pueda ayudarte mejor
+```
+
+#### Cuando se detecta frustración:
+```
+Lamento que estés teniendo esa experiencia.
+😔 Entiendo que necesitas una respuesta clara.
+Voy a conectarte con un asesor que puede ayudarte de forma personalizada.
+```
+
+#### Mensaje de cierre al derivar:
+```
+Perfecto, estás siendo derivado a uno de nuestros asesores.
+Para que te ayude más rápido, te comparte un resumen de tu consulta:
+
+"[Resumen de lo que el cliente preguntó]"
+
+Te contactaremos pronto.
+🙏
+```
+
+### Regla de los 3 — Mejora Continua
+
+Si la misma pregunta llega **3 veces** sin estar entrenada, se agrega a la base de conocimientos.
+
+**Proceso:**
+1. Registrar todas las derivaciones
+2. Análisis semanal (30-60 min)
+3. Agregar las 5 preguntas más frecuentes
+4. Probar antes de activar
+
+### Clasificación de Preguntas
+
+| Categoría | El Bot Puede... |
+|-----------|------------------|
+| **Pregunta frecuente y entrenada** | Responder directo |
+| **Pregunta frecuente pero no entrenada** | Reformular y derivar |
+| **Pregunta infrecuente pero objetiva** | Responder si tiene base amplia |
+| **Pregunta infrecuente y subjetiva** | Derivar a humano |
+| **Pregunta fuera del nicho inmobiliario** | Derivar o declinar |
+
+---
+
 *Documento creado el 2026-04-01*
+*Actualizado el 2026-04-05 con sección de derivación a humano*
 *Skills utilizadas: client-intake-bot-pro, voiceflow, whatsapp-business-api, n8n, lead-scorer*
