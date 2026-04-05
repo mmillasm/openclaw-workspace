@@ -1,11 +1,11 @@
 ID,Nombre_Agencia,Website,Email,Telefono,Nombre_Contacto,Cargo,Zona,Num_Corredores,Prioridad,Estado,Email_Enviado,Respondio,Reunion_Agendada,Piloto_Aceptado,Score_Oportunidad,Notas,Secuencia_Activa,Ultimo_Contacto,Proximo_Paso,Fecha_Proximo_Paso
-001,GESCOR Propiedades,gescorpropiedades.cl,contacto@gescorpropiedades.cl,+56912345678,Juan Pérez,Gerente Comercial,Las Condes,12,ALTA,POR_CONTACTAR,,,,,0,,Día 0,,Enviar email inicial,2026-04-03
-002,Boettcher Propiedades,boettcher.cl,info@boettcher.cl,+56923456789,María González,Directora Comercial,Las Condes,8,ALTA,POR_CONTACTAR,,,,,0,,Día 0,,Enviar email inicial,2026-04-03
+001,GESCOR Propiedades,gescorpropiedades.cl,contacto@gescorpropiedades.cl,+56912345678,Juan Pérez,Gerente Comercial,Las Condes,12,ALTA,EMAIL_ENVIADO,2026-04-05,,,,0,,Día 0,,Enviar email inicial,2026-04-03
+002,Boettcher Propiedades,boettcher.cl,info@boettcher.cl,+56923456789,María González,Directora Comercial,Las Condes,8,ALTA,EMAIL_ENVIADO,2026-04-05,,,,0,,Día 0,,Enviar email inicial,2026-04-03
 003,Altea Propiedades,alteapropiedades.cl,contacto@alteapropiedades.cl,+56934567890,Carlos Rodríguez,Gerente General,Providencia,6,MEDIA,POR_CONTACTAR,,,,,0,,Día 0,,Enviar email inicial,2026-04-04
 004,Vercetti Propiedades,vercettipropiedades.cl,info@vercetti.cl,+56945678901,Ana Martínez,Directora de Ventas,Vitacura,5,MEDIA,POR_CONTACTAR,,,,,0,,Día 0,,Enviar email inicial,2026-04-04
-005,URBANI,urbani.cl,hola@urbani.cl,+56956789012,Pedro Soto,CEO,Santiago,15,ALTA,POR_CONTACTAR,,,,,0,,Día 0,,Enviar email inicial,2026-04-05
+005,URBANI,urbani.cl,hola@urbani.cl,+56956789012,Pedro Soto,CEO,Santiago,15,ALTA,EMAIL_ENVIADO,2026-04-05,,,,0,,Día 0,,Enviar email inicial,2026-04-05
 006,Propiedades Yapur,propiedadesyapur.cl,contacto@yapur.cl,+56967890123,Laura Díaz,Gerente Comercial,Las Condes,4,MEDIA,POR_CONTACTAR,,,,,0,,Día 0,,Enviar email inicial,2026-04-05
-007,Houm,houm.com,cl@houm.com,+56978901234,Diego Silva,Country Manager,Santiago,20,ALTA,POR_CONTACTAR,,,,,0,,Día 0,,Enviar email inicial,2026-04-06
+007,Houm,houm.com,cl@houm.com,+56978901234,Diego Silva,Country Manager,Santiago,20,ALTA,EMAIL_ENVIADO,2026-04-05,,,,0,,Día 0,,Enviar email inicial,2026-04-06
 008,HousePricing,housepricing.cl,contacto@housepricing.cl,+56989012345,Camila Torres,Directora,Ñuñoa,3,BAJA,POR_CONTACTAR,,,,,0,,Día 0,,Enviar email inicial,2026-04-06
 009,KiteProp,kiteprop.com,contacto@kiteprop.com,+56990123456,Francisco López,Gerente,Santiago,5,MEDIA,POR_CONTACTAR,,,,,0,,Día 0,,Enviar email inicial,2026-04-07
 010,Propital,propital.com,hello@propital.com,+56901234567,Valentina Ruiz,Head of Sales,Santiago,3,BAJA,POR_CONTACTAR,,,,,0,,Día 0,,Enviar email inicial,2026-04-07
