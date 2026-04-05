@@ -1,452 +1,488 @@
 # Investigación de Competencia - VYNXE
-## Agencia de Automatización con IA para Inmobiliarias en Chile
+## Chatbots Inmobiliarios en Chile 2024-2025
 
-**Fecha de investigación:** Abril 2025
-**Cliente:** VYNXE (vynxe.cl) - Corredores de propiedades en Chile
-**Propuesta:** "Tu asistente virtual inmobiliario que atiende clientes 24/7, separa a los curiosos de los que quieren comprar, y agenda visitas automáticamente"
+*Fecha de investigación: 5 de abril de 2026*  
+*Objetivo: Identificar competidores directos e indirectos, precios, fortalezas/debilidades y oportunidades de diferenciación*
 
 ---
 
-## 1. COMPETIDORES DIRECTOS
+## 1. RESUMEN EJECUTIVO
 
-### 1.1 InmoBot (inmobot-ia.com)
-**Descripción:** Chatbot inmobiliario con IA para WhatsApp, diseñado específicamente para el sector inmobiliario chileno.
+El mercado chileno de chatbots inmobiliarios está en plena expansión. Se identificaron **más de 15 competidores** relevantes, incluyendo actores locales especializados, plataformas regionales y herramientas genéricas con casos de uso inmobiliario. La mayoría **no publica precios** y opera con cotizaciones personalizadas. VYNXE tiene espacio claro para diferenciarse como solución enfocada 100% en el corredor de propiedades chileno (PYME), con pricing transparente y promesa de valor centrada en "separar curiosos de compradores".
 
-**Precios:**
-- No especificados públicamente
-- Posee calculadora de ROI en su sitio
-- "No hay cobros de setup"
-- Modelo basado en número de agentes
+---
+
+## 2. COMPETIDORES DIRECTOS (Enfoque Inmobiliario + Chile)
+
+### 2.1 LIDZ ⭐ (PRIORIDAD ALTA)
+**Origen:** Chilena (startup, fundada 2024)  
+**Web:** lidz.ai  
+**Descripción:** Chatbot WhatsApp con IA especializado en real estate. Se autodenominan "más que un bot genérico" — usan IA para personalizar búsqueda de propiedades.  
+**Datos clave:**
+- Procesa **25% de las propiedades nuevas vendidas en Chile**
+- **+100,000 clientes mensuales**
+- Tiempo de respuesta: **3 segundos** (vs. 60 horas promedio)
+- Tasa de contactabilidad: **92%**
+- Opera en Chile, Perú y Argentina
+- +65 agencias inmobiliarias como clientes
+- Integración con CRM
+- **NO publicita precios** — modelo de demostración/venta consultiva
+
+**Fortalezas:**
+- Posicionamiento fuerte como "startup PropTech chilena"
+- Números de impacto impresionantes (25% del mercado)
+- Enfoque 100% inmobiliario desde el día uno
+- Cobertura regional (Chile, Perú, Argentina)
+- Equipo fundador sólido (ingeniero civil + arquitecto)
+
+**Debilidades:**
+- Empresa nueva (2024) — menor track record
+- Precios no transparentes = barrera de entrada
+- Enfoque en agencias grandes (puede no servir bien a PYMEs)
+- Sin diferenciación clara en propuesta de valor para corredores individuales
+
+---
+
+### 2.2 InmoBot
+**Origen:** Chile  
+**Web:** inmobot.cl / inmobot-ia.com  
+**Descripción:** Plataforma integral de búsqueda de propiedades con chatbot WhatsApp con IA. Se presenta como "plataforma de búsqueda de propiedades integral en Latinoamérica" y "CRM inmobiliario con IA".  
+**Precios:** No publicados (botón "Ver Precios" pero sin detalles públicos)
+
+**Fortalezas:**
+- Posicionamiento como "CRM + IA" (no solo chatbot)
+- Presencia en Latinoamérica
+- Enfoque en integración de búsqueda de propiedades
+
+**Debilidades:**
+- Precios ocultos = desconfianza inicial
+- CRM completo puede ser overkill para corredores pequeños
+- Menos ágil que competidores más nuevos
+
+---
+
+### 2.3 InmoAutomation
+**Origen:** Internacional (Latinoamérica)  
+**Web:** inmoautomation.com/chatbot-ia  
+**Descripción:** Suite completa de automatización IA para inmobiliarias. Incluye chatbot + web valuator + agente IA interno.  
+**Precios:** No publicados
 
 **Características:**
-- Disponibilidad 24/7
-- Calificación automática de leads
-- Agenda de visitas automáticamente
-- Respuestas inteligentes con IA
-- Configuración en menos de un día
-- Integración con WhatsApp
+- Multicanal (web, Facebook, Instagram, WhatsApp)
+- Entrenamiento con documentos de la agencia
+- Calificación de leads
+- Agendamiento de visitas
+- Parte de suite más amplia (valuador web + agente IA)
+
+**Fortalezas:**
+- Suite completa (no solo chatbot)
+- Web valuator para captar leads de vendedores
+- Enfoque B2B inmobiliario
+
+**Debilidades:**
+- Sin precios públicos
+- Suite completa puede ser cara para PYMEs
+- Menos enfoque en corredor individual
+
+---
+
+### 2.4 RealGuru
+**Origen:** Chile/LATAM  
+**Web:** realguru.ai  
+**Descripción:** Chatbot IA específicamente diseñado para el sector inmobiliario.  
+**Precios:** No publicados (demo gratuita, luego cotización)
+
+**Características:**
+- Gestión de leads
+- Respuestas automatizadas
+- Reactivación de leads
+- Integración con plataformas de marketing
 
 **Fortalezas:**
 - Enfoque 100% inmobiliario
-- Configuración rápida
-- Sin costos de setup
-- Propuesta similar a VYNXE
+- Cobertura LATAM
 
 **Debilidades:**
-- Precios no transparentes
-- Menor知名度 en el mercado chileno
-- Sin información clara sobre stack tecnológico
+- Sin precios transparentes
+- Menos conocido que competidores principales
 
 ---
 
-### 1.2 Cliengo + "Ignacio" (cliengo.com)
-**Descripción:** Plataforma de chatbot con agente inmobiliario virtual llamado "Ignacio", diseñado para el sector inmobiliario.
-
-**Precios (CLP + IVA):**
-| Plan | Precio Mensual | Conversaciones | Chatbots |
-|------|----------------|----------------|----------|
-| Starter | $37,050 | 250 | 3 |
-| Premium | $84,550 | 1,000 | 10 |
-| Business | $227,050 | 4,000 | Ilimitado |
-| Corporate | "A convenir" | Personalizado | Personalizado |
+### 2.5 TamiBot
+**Origen:** Chile  
+**Web:** tamibot.com  
+**Descripción:** Chatbot IA para automatizar hasta el 90% del proceso comercial inmobiliario.  
+**Precios:** No publicados (prueba gratuita + demo full gratuita)
 
 **Características:**
-- Agente inmobiliario virtual "Ignacio" (BETA con IA)
-- Calificación y priorización de leads
-- Integración con CRMs inmobiliarios
-- Derivación a asesores humanos para consultas complejas
-- Automatización 24/7 en WhatsApp, web e Instagram
-- Prueba gratuita de 14 días
+- Calificación de prospectos
+- Mostrar propiedades
+- Agendamiento de visitas
+- Integración con Google Calendar
+- Conexión a portales inmobiliarios (Urbania, Nexo)
+- Implementación rápida (48-72 horas)
 
 **Fortalezas:**
-- Marca establecida en Chile
-- "Ignacio" como diferenciador específico para real estate
-- Integración con múltiples canales
+- Promesa concreta: "automatiza 90%"
+- Implementación rápida
+- Integración con portales inmobiliarios chilenos
 - Prueba gratuita disponible
 
 **Debilidades:**
-- "Ignacio" está en BETA (puede generar desconfianza)
-- Precios pueden ser elevados para corredores independientes
-- Modelo de precios por conversaciones puede limitar
+- Sin precios públicos
+- Posicionamiento genérico
 
 ---
 
-### 1.3 TamiBot (tamibot.com)
-**Descripción:** Agente IA para el sector inmobiliario que opera principalmente a través de WhatsApp.
+## 3. COMPETIDORES REGIONALES/LATAM (Sirven al Mercado Chileno)
 
-**Precios:**
-- No especificados públicamente
-- Demo gratuita con implementación completa
-- Costos separados de WhatsApp API y tokens IA
+### 3.1 Kosmo IA
+**Origen:** México (opera en LATAM)  
+**Web:** kosmo.com.mx  
+**Descripción:** Plataforma de chatbot IA para ventas y atención al cliente. Sirve real estate.  
+**Precios (México):** Desde $4,497 MXN/mes (implementación incluida "done-for-you")
 
 **Características:**
-- Automatiza hasta 90% del proceso comercial
-- Atención a prospectos 24/7
-- Calificación de leads (presupuesto, zona, métodos de pago)
-- Cierre de contratos automatizado
-- Envío de brochures de propiedades
-- Gestión de objeciones
-- Integración con portales: Urbania, Adondevivir, Tokko Broker
+- Inbox unificado
+- CRM incluido
+- Embudo de ventas visual
+- Recordatorios automáticos de citas
+- Catálogo de productos para WhatsApp
+- Multicanal (WhatsApp, Instagram, Facebook)
 
 **Fortalezas:**
-- Claim de automatización del 90% (muy alto)
-- Integración con portales inmobiliarios importantes
-- Demo gratuita con implementación
+- Modelo "done-for-you" (te lo hacen todo)
+- Suite completa (CRM + chatbot)
+- Presencia LATAM
 
 **Debilidades:**
-- Precios no transparentes
-- Dependencia de costos externos (Meta, tokens IA)
-- Menor presencia en mercado chileno observada
+- Precios publicados solo para México
+- Mercado chileno puede ser más caro por implementación local
+- Menos enfoque inmobiliario específico
 
 ---
 
-### 1.4 InmoAutomation (inmoautomation.com)
-**Descripción:** Chatbot IA y agente virtual para inmobiliarias con integración multiplataforma.
-
-**Precios:**
-| Plan | Características |
-|------|-----------------|
-| Free | 1 usuario, 5 valuaciones/mes, AI Agent básico |
-| Élite | 10 usuarios, soporte prioritario, más funcionalidades |
+### 3.2 Endion.ai
+**Origen:** Argentina (opera en LATAM)  
+**Web:** endion.ai  
+**Descripción:** Chatbot IA especializado para inmobiliarias.  
+**Precios:** Plan "Especializado" con 1,500 conversaciones/mes (sin precio público)
 
 **Características:**
-- Chatbot para responder preguntas sobre propiedades
-- Calificación de leads
-- Agenda de visitas 24/7
-- Integración con WhatsApp, Instagram, Messenger, websites
-- AI Agent como asistente virtual (drafting emails, contactos, valuaciones)
-- Previene pérdida de leads por tiempos de respuesta lentos
-
-**Fortalezas:**
-- Plan gratuito disponible (buen punto de entrada)
-- AI Agent diferenciado como valor agregado
-- Múltiples integraciones
-
-**Debilidades:**
-- Plan gratuito muy limitado (5 valuaciones/mes)
-- Menor enfoque en automatización de agendado
-- Precios del plan Élite no especificados
-
----
-
-## 2. COMPETIDORES INDIRECTOS
-
-### 2.1 MightyChat.ai (mightychat.ai)
-**Descripción:** Plataforma de chatbot con planes específicos para inmobiliarias en Chile.
-
-**Precios (USD):**
-| Plan | Precio/Mes | Mensajes | Agentes |
-|------|------------|----------|---------|
-| Gratis | $0 | 30 | 1 |
-| Light | $9.99 | 2,000 | 1 |
-| Basic | $30 | 2,000 | 1 |
-| Premium | $97 | 10,000 | 5 |
-| Enterprise | $399 | 40,000 | 10 |
-
-**Características:**
-- Integración con WhatsApp, Instagram, Facebook, websites
 - Captura de leads
+- Buscador inteligente de propiedades
+- Historial de conversaciones sin límites
+- Envío de mensajes promocionales
+- Personalización completa de flujos
+- Integraciones avanzadas
+- Multicanal (WhatsApp, Instagram, Messenger, web)
+
+**Fortalezas:**
+- Enfoque específico en inmobiliarias
+- Funcionalidades avanzadas (promociones, newsletters)
+- Sin límites en historial
+
+**Debilidades:**
+- Sin precios públicos
+- Empresa argentina — soporte local Chile puede ser limitado
+- Plan especializado puede ser caro
+
+---
+
+### 3.3 MightyChat.ai
+**Origen:** Internacional  
+**Web:** mightychat.ai  
+**Descripción:** Plataforma de chatbot IA con planes para real estate en Chile.  
+**Precios (USD):**
+- Free: $0/mes (30 mensajes/mes)
+- Light: $9.99/mes (2,000 mensajes/mes)
+- Basic: $30/mes (2,000 mensajes/mes + WhatsApp)
+- Premium: $97/mes (10,000 mensajes/mes + 5 agentes)
+- Enterprise: $399/mes (40,000 mensajes/mes + 10 agentes)
+
+**Características:**
+- Entrenamiento con datos del negocio
+- Integración con Instagram, Facebook, WhatsApp
+- Captura de leads
+- Prueba gratuita 21 días (sin tarjeta)
+
+**Fortalezas:**
+- **ÚNICO con precios públicos y transparentes**
+- Prueba gratuita extensa
+- Múltiples planes escalables
+- Enfoque en Chile mencionado explícitamente
+
+**Debilidades:**
+- Genérico (no especializado en real estate)
+- Rápidamente se queda corto en volumen para inmobiliarias
+- Sin integraciones inmobiliarias específicas (portales, CRM inmobiliarios)
+- Soporte puede ser distante
+
+---
+
+### 3.4 BOTSolution (LinkSolution Chile)
+**Origen:** Chile  
+**Web:** linksolution.cl  
+**Descripción:** Plataforma de chatbot IA con certificación ISO 9001.  
+**Precios:** No publicados (cotización personalizada)
+
+**Características:**
+- 24/7 automatizado
+- NLP para entender intención del cliente
+- Integración con WhatsApp, web, CRM, ERP
+- Sin código (crea flujos en clics)
+- Aplicaciones: soporte, ventas, FAQs, encuestas, derivación a humanos
+
+**Fortalezas:**
+- Certificación ISO 9001
+- Suite amplia (incluye voicebot "Linky")
+- Sin código = accesible
+
+**Debilidades:**
+- Sin precios públicos
+- Genérico (no especializado en real estate)
+- Cotización personalizada = fricción de venta
+
+---
+
+## 4. COMPETIDORES LOCALES CHILENOS (Genéricos con Casos Inmobiliarios)
+
+### 4.1 Chatbot Chile
+**Origen:** Chile  
+**Web:** chatbotchile.cl  
+**Precios:** Cotización personalizada (planes mensuales con costo de instalación)
+
+**Fortalezas:**
+- Empresa chilena
+- Presencia local
+
+**Debilidades:**
+- Sin precios públicos
+- Genérico
+- Poca diferenciación
+
+---
+
+### 4.2 TusClicks
+**Origen:** Chile  
+**Web:** tusclicks.cl  
+**Precios (CLP + IVA):**
+- Starter: $69,990 + IVA/mes (4,000 respuestas, 3 bots)
+- Básico Pymes: $24,990 + IVA/mes (1,000 mensajes, 1 bot, 5M caracteres)
+
+**Características:**
+- Basado en ChatGPT
+- Integración multicanal
+- Automatización de respuestas
 - Historial de conversaciones
-- Prueba gratuita de 21 días
-- Integraciones: WooCommerce, Zoho
+- Re-entrenamiento automático
 
 **Fortalezas:**
-- Prueba gratuita extendida (21 días)
-- Precios competitivos en USD
-- Amplia gama de planes
+- **Precios en CLP publicados**
+- Enfoque en Pymes chilenas
+- Prueba gratuita
 
 **Debilidades:**
-- No es 100% inmobiliario (solución genérica)
-- Precios en USD pueden ser confusos para clientes chilenos
-- Menor personalización para el flujo inmobiliario específico
+- Genérico (no especializado en real estate)
+- Límite de respuestas bajo para inmobiliarias activas
+- Sin integraciones inmobiliarias específicas
 
 ---
 
-### 2.2 Databot Chile (databot.cl)
-**Descripción:** Integración de chatbot con WhatsApp API, con planes desde 3 UF.
-
-**Precios:**
-- Plan Growth: desde 3 UF/mes
-- Precios variables según volumen de conversaciones
-- Modelo personalizado según necesidades del cliente
-
-**Características:**
-- Automatización de preguntas frecuentes
-- Recomendaciones de productos
-- Campañas de marketing
-- Seguimiento de pedidos
-- Derivar conversaciones entre agentes
-- Gestión a través de Databot Live
+### 4.3 Softimizados
+**Origen:** Chile  
+**Web:** softimizados.cl  
+**Precios (USD):**
+- Básico: $35/mes
+- Profesional: Cotización
+- Premium: Cotización
+- Personalizado: Cotización
 
 **Fortalezas:**
-- Precios en UF ( familiar para empresas chilenas)
-- Modelo escalable
+- Empresa chilena
+- Prueba gratuita 7 días
 
 **Debilidades:**
-- Solución genérica (no específica para real estate)
-- Requiere contactar para precios exactos
-- Enfoque más B2B general
+- Sin precios claros para planes superiores
+- Genérico
 
 ---
 
-### 2.3 Wazaut Chile (wazaut.com)
-**Descripción:** Plataforma integral de WhatsApp Business con chatbot, IA y automatización.
-
-**Precios (UF/mes):**
-| Plan | Características |
-|------|-----------------|
-| Básico | 1 número, 3 agentes, 10 campañas |
-| Profesional | 6 agentes, 20 campañas, analíticas, IA (desde 2.30 UF) |
-| Premium | 9 agentes, 100 campañas, 24/7, API personalizada |
-| Enterprise | "A convenir" |
-| Agente IA Chatbot | +1.00 UF/mes adicional |
-
-**Características:**
-- Atención multiagente
-- Automatización inteligente
-- Campañas de marketing
-- Constructor de chatbots
-- +500 integraciones
-- IA nativa
+### 4.4 Databot
+**Origen:** Chile  
+**Web:** databot.cl  
+**Precios:** Planes a medida (cotización personalizada)
 
 **Fortalezas:**
-- Plataforma completa (no solo chatbot)
-- Soporte 24/7 en plan Premium
-- many integrations
+- Empresa chilena
+- Enfoque en personalización
 
 **Debilidades:**
-- Costos adicionales de Meta por mensaje (~$0.023-0.1022 USD)
-- No es solución vertical para real estate
-- Complejidad de pricing (plan + IA chatbot + Meta)
+- Sin precios públicos
+- Genérico
 
 ---
 
-### 2.4 BotSolution (bot-solutions.com)
-**Descripción:** Soluciones de chatbot con IA para WhatsApp en Chile.
+## 5. ANÁLISIS DE PRECIOS DEL MERCADO
 
-**Precios:**
-- Soluciones personalizadas
-- Requiere solicitar demostración
-- Chatbot inmobiliario específico: desde $65 USD (paquete)
+### Tabla Comparativa de Precios
 
-**Características:**
-- Automatización 24/7
-- Respuestas a preguntas frecuentes
-- Envío de información de propiedades
-- Agendar visitas
-- Seguimiento de prospectos
-- NLP para consultas complejas
+| Competidor | Precios Publicados | Rango Estimado USD/mes |
+|------------|--------------------|-----------------------|
+| **MightyChat.ai** | ✅ Sí | $0 - $399 |
+| **TusClicks** | ✅ Sí (CLP) | ~$28 - $79 |
+| **Softimizados** | Parcial | $35+ |
+| **Kosmo IA** | Solo MX | ~$270 MXN equiv. |
+| **InmoBot** | ❌ No | ¿$100-500? |
+| **InmoAutomation** | ❌ No | ¿$200-800? |
+| **RealGuru** | ❌ No | ¿$100-400? |
+| **TamiBot** | ❌ No | ¿$100-300? |
+| **Endion.ai** | ❌ No | ¿$150-500? |
+| **BOTSolution** | ❌ No | ¿$100-500? |
+| **LIDZ** | ❌ No | ¿$200-1000? |
 
-**Fortalezas:**
-- Soluciones personalizadas
-- NLP avanzado
-
-**Debilidades:**
-- Precios no transparentes
-- Enfoque genérico
-
----
-
-### 2.5 Manychat
-**Descripción:** Plataforma global de chatbot con integración WhatsApp.
-
-**Precios:**
-| Plan | Precio/Mes | Contactos |
-|------|------------|-----------|
-| Free | $0 | 1,000 |
-| Pro | desde $15 | Escala según contactos |
-
-**Costos WhatsApp (Meta) por conversación en Chile:**
-- Marketing: $0.1022 USD
-- Utilidad: $0.1022 USD
-- Autenticación: $0.0230 USD
-- 1,000 conversaciones de servicio gratuitas/mes
-
-**Características:**
-- Drag-and-drop builder
-- Calificación de leads
-- Programación de visitas
-- Campañas automatizadas
-- Envío de imágenes/videos de propiedades
-- Integración con CRMs
-
-**Fortalezas:**
-- Plan gratuito disponible
-- Interfaz visual fácil de usar
-- Gran cantidad de tutorials
-
-**Debilidades:**
-- Costos de Meta pueden incrementarse
-- No es solución vertical para real estate
-- Pricing complejo por conversación
+### Observaciones de Precios:
+- **MightyChat.ai** es el único con pricing completamente público y transparente
+- **TusClicks** es el único con precios en CLP ( Chile )
+- La mayoría opera con "cotización personalizada" — barreras de entrada altas
+- Rango real del mercado parece estar entre **$30-400 USD/mes** dependiendo de funcionalidades
+- VYNXE ($199K/$399K/$799K CLP) equivale aproximadamente a **$30-120 USD/mes** — competitivo
 
 ---
 
-### 2.6 Inmoweb (inmoweb.es / inmoweb.net)
-**Descripción:** CRM inmobiliario completo con automatización e IA.
+## 6. FORTALEZAS Y DEBILIDADES DE LA COMPETENCIA
 
-**Precios:** No especificados (requiere contacto comercial)
+### 6.1 Fortalezas Comunes
+- ✅ Atención 24/7
+- ✅ Integración WhatsApp
+- ✅ Captura y calificación de leads
+- ✅ Multicanal (Instagram, Messenger, web)
+- ✅ NLP para conversaciones naturales
+- ✅ Implementación relativamente rápida
 
-**Características:**
-- CRM inmobiliario específico
-- Automatización de publicaciones a portales
-- Generación automática de descripciones con IA (múltiples idiomas)
-- Email marketing
-- Gestión de embudo de ventas
-- OneBox para captura de leads de portales
-- Integración con Metricool
-
-**Fortalezas:**
-- CRM completo específico para real estate
-- IA para descripciones de propiedades
-- Automatización de publicaciones
-
-**Debilidades:**
-- No es un chatbot/asistente virtual conversacional
-- Enfoque más administrativo que de atención al cliente
-- Precios no disponibles públicamente
+### 6.2 Debilidades Comunes
+- ❌ **Sin precios públicos** (mayoría)
+- ❌ Enfoque genérico (no especializado en corredores individuales)
+- ❌ Suites complejas para PYMEs pequeñas (overkill)
+- ❌ Sin propuesta de valor clara para "separar curiosos de compradores"
+- ❌ Sin integración nativa con Google Calendar para agendamiento
+- ❌ Soporte y onboarding pueden ser deficientes
+- ❌ Sin contenido educativo gratuito para el nicho
 
 ---
 
-### 2.7 GePeTo - Grupo Premium (gpremium.cl)
-**Descripción:** Asistente virtual con IA para corredores de propiedades, lanzado en julio 2024.
+## 7. OPORTUNIDADES DE DIFERENCIACIÓN PARA VYNXE
 
-**Precios:** No especificados (requiere membresía Grupo Premium)
+### 7.1 Diferenciadores Clave Identificados
 
-**Características:**
-- Coach virtual con IA
-- Consejos estratégicos en tiempo real
-- Soporte emocional para corredores
-- Asesoría profesional
+| Oportunidad | Descripción | Por qué importa |
+|-------------|-------------|-----------------|
+| **1. Precios transparentes** | Publicar pricing en CLP en landing + landing page | Único en el mercado — genera confianza inmediata |
+| **2. Enfoque corredor individual** | No agencias grandes, no suites enterprise | Competidores apuntan arriba; VYNXE apunta a PYMEs (1-10 empleados) |
+| **3. Promise "separa curiosos de compradores"** | Diferenciador conceptual único | Ningún competidor lo Articula claramente |
+| **4. Onboarding rápido** | "Actívalo en 1 semana" | TamiBot dice 48-72h; VYNXE puede ser más rápido |
+| **5. Contenido educativo gratuito** | Checklist, calculadora, guías sin jerga | Lead magnets para atraer tráfico + demostrar expertise |
+| **6. Pricing en CLP** | Starter/Pro/Agency en pesos chilenos | TusClicks es el único; VYNXE puede ser referencia |
+| **7. Integración Google Calendar nativa** | Agendamiento automático real | Pocos lo ofrecen explícitamente |
+| **8. Stack open/known** | n8n + GPT-4o mini + WhatsApp Business | Transparencia técnica genera confianza en el nicho tech |
+| **9. Localización total** | Español chileno, contexto inmobiliario local | Internacionales no lo tienen |
+| **10. Prueba/Piloto** | Mes gratis o piloto de 2 semanas | Desbloquea decisión de compra |
 
-**Fortalezas:**
-- Soporte 24/7
-- Enfoque en bienestar y estrategia del corredor
-- Respaldado por Grupo Premium (15+ años en el mercado)
+### 7.2 Posicionamiento Sugerido
 
-**Debilidades:**
-- No es un chatbot de atención al cliente
-- Enfoque de coaching, no de automatización
-- Requiere membresía de Grupo Premium
-- No atiende clientes directamente del corredor
+> **VYNXE:** El único chatbot inmobiliario diseñado para el corredor de propiedades chileno. No somos una agencia de marketing ni una suite enterprise — somos tu asistente virtual que trabaja 24/7 para que tú cierres negocios.
 
----
-
-## 3. COMPARATIVA DE PRECIOS
-
-| Competidor | Desde (CLP aprox.) | Modelo |
-|------------|-------------------|--------|
-| **VYNXE** | $199,000/mes | Fijo por plan |
-| Cliengo | $37,050/mes (+IVA) | Por conversaciones |
-| MightyChat.ai | ~$10 USD/mes | Por mensajes |
-| InmoBot | No especificado | Por agentes |
-| TamiBot | No especificado | N/A |
-| InmoAutomation | Free - $0 | Freemium |
-| Databot | 3 UF/mes (~$132 USD) | Por volumen |
-| Wazaut | 2.30 UF/mes + 1 UF IA | Por plan + UF |
-| Manychat | Free - $15 USD/mes | Por contactos |
+**Diferenciadores a comunicar:**
+1. **"Atiendo a tus clientes, tú cierras las ventas"** — promesa clara de rol
+2. **"En 1 semana está funcionando"** — speed to market
+3. **"Sin好奇客，只有准客户"** (sin curiosos, solo clientes reales) — la propuesta de diferenciación
+4. **Precios claros, sin sorpresas** — transparencia como ventaja competitiva
 
 ---
 
-## 4. ANÁLISIS DE FORTALEZAS Y DEBILIDADES
+## 8. MAPA DE POSICIONAMIENTO
 
-### Competidores con MAYOR amenaza para VYNXE:
+```
+                    ALTO PRECIO
+                        │
+                        │   LIDZ              InmoAutomation
+                        │   InmoBot           (Enterprise Suite)
+                        │   RealGuru
+    ESPECIALIZADO ───────┼────────────────────┐
+                        │                    │
+                        │  VYNXE ←───────────┤
+                        │  (PYME chileno)    │
+    GENÉRICO ───────────┼────────────────────┤
+                        │                    │
+                        │  MightyChat.ai     BOTSolution
+                        │  TusClicks         LinkSolution
+                        │  Softimizados      Chatbot Chile
+                        │
+                        └────────────────────┴──────────────
+                        BAJO PRECIO          ALTO PRECIO
+```
 
-**1. Cliengo ("Ignacio")**
-- **Fortalezas:** Marca establecida, canal oficial en Chile, agente virtual específico para real estate
-- **Debilidades:** "Ignacio" aún en BETA, precios pueden ser elevados, modelo por conversaciones
-
-**2. InmoBot**
-- **Fortalezas:** Propuesta muy similar a VYNXE, enfoque 100% inmobiliario, sin costos de setup
-- **Debilidades:** Menor知名度, precios no transparentes
-
-**3. TamiBot**
-- **Fortalezas:** Claim de 90% automatización, integración con portales importantes
-- **Debilidades:** Precios no transparentes, costos adicionales de Meta
-
-### Competidores con MENOR amenaza:
-
-- **MightyChat.ai:** Solución genérica, no verticalizada para real estate
-- **Manychat:** Complejidad de pricing, sin enfoque inmobiliario específico
-- **GePeTo:** Diferente propuesta (coaching vs. automatización)
-
----
-
-## 5. OPORTUNIDADES DE DIFERENCIACIÓN PARA VYNXE
-
-### 5.1 Propuesta de Valor Única
-- **"Asistente Virtual Inmobiliario Integral"** vs. chatbot genérico
-- Énfasis en la calificación de leads (separar curiosos de compradores reales)
-- Agendado automático de visitas integrado
-
-### 5.2 Diferenciación por Precio
-- **VYNXE Starter ($199K)** vs. Cliengo Starter ($37K + IVA pero limitado)
-- VYNXE ofrece precio fijo predecible vs. modelos por conversación
-- Posicionar como "todo incluido" (sin costos ocultos de Meta)
-
-### 5.3 Diferenciación por Especialización
-- **Stack específico:** WhatsApp + n8n + GPT-4o mini + Google Calendar + Airtable
-- Mostrar expertise en el flujo inmobiliario completo
-- Casos de uso concretos para corredores chilenos
-
-### 5.4 Diferenciación por Targeting
-- Enfoque exclusivo en **corredores independientes** (no inmobiliarias grandes)
-- Posicionamiento como "el asistente que nunca duerme"
-- Mensaje de productividad: tiempo libre para el corredor
-
-### 5.5 Oportunidades de Contenido/Mensajes Clave
-1. **"No pierdas más clientes por no responder a las 11pm"**
-2. **"El chileno que quiere comprar no espera 24 horas"**
-3. **"Tu asistente virtual que trabaja 24/7 y no cobra horas extra"**
-4. **"Separa el grano de la paja: clientes reales vs. curiosos"**
-
-### 5.6 Ventaja Competitiva Sostenibble
-- Crear contenido educativo sobre automatización inmobiliaria en Chile
-- Construir comunidad de corredores que usen VYNXE
-- Desarrollar integraciones específicas con portales inmobiliarios chilenos
-- Ofrecer onboarding y soporte en español con conocimiento del mercado local
+**VYNXE debe posicionarse como:**
+- **Especializado** (no genérico)
+- **Accesible** (no enterprise)
+- **Transparente** (precios claros)
+- **Local** (enfoque Chile/PYME)
 
 ---
 
-## 6. CONCLUSIONES
+## 9. RECOMENDACIONES ESTRATÉGICAS
 
-**VYNXE tiene una propuesta de valor clara y diferenciada** en el mercado chileno de automatización inmobiliaria. Sus principales ventajas competitivas son:
+### 9.1 Acciones Inmediatas (Semana 1-2)
+1. **Publicar precios en landing page** — HIGIEN (MightyChat y TusClicks lo hacen)
+2. **Crear landing específica para "corredor de propiedades"** (no "inmobiliaria")
+3. **Destacar "separar curiosos de compradores"** como tagline
+4. **Ofrecer piloto gratuito de 2 semanas** — desblindar barrera de entrada
 
-1. **Precio fijo y predecible** (vs. modelos por conversación o con costos ocultos)
-2. **Propuesta específica** para corredores independientes (no inmobiliarias enterprise)
-3. **Stack tecnológico completo** integrado (WhatsApp + Calendar + Airtable)
-4. **Énfasis en calificación de leads** como diferenciador clave
+### 9.2 Acciones Corto Plazo (Mes 1)
+1. **Contenido educativo** (checklist, calculadora) para SEO y lead magnets
+2. **Caso de estudio o testimonio** aunque sea de piloto interno
+3. **Comparativa vs. competidores** en blog/landing para posicionamiento
+4. **Speed to market messaging** — "activo en 1 semana" vs. TamiBot "48-72h"
 
-**Los principales competidores a monitorear son:**
-1. Cliengo (marca establecida, pero "Ignacio" aún en BETA)
-2. InmoBot (propuesta similar, pero menor知名度)
-3. TamiBot (claim agresivo, pero precios no transparentes)
+### 9.3 Acciones Mediano Plazo (Mes 2-3)
+1. **Expansión a integraciones** con portales inmobiliarios chilenos (Urbania, etc.)
+2. **Podcast/webinar** sobre "agente inmobiliario 3.0" — tendencia del mercado
+3. **Testimonios de clientes** — usar en landing y outreach
+4. **Pricing en CLP destacado** — ventaja sobre competidores internacionales
 
-**Recomendación estratégica:**
-- Posicionar a VYNXE como la solución "todo incluido" sin costos sorpresa
-- Enfatizar el diferimiento de VYNXE en la **calificación de leads** (separar curiosos de compradores)
-- Aprovechar que los competidores no tienen precios transparentes
-- Crear contenido que eduque al mercado sobre los beneficios de la automatización
+---
+
+## 10. CONCLUSIONES
+
+1. **El mercado está en crecimiento pero fragmentado** — nadie domina con pricing transparente
+2. **LIDZ es el competidor más fuerte** por posicionamiento y números de mercado, pero apunta a agencias grandes
+3. **La mayoría no publica precios** — oportunidad para VYNXE de diferenciarse con transparencia
+4. **VYNXE tiene pricing competitivo** ($199K-$799K CLP) vs. mercado ($30-400 USD)
+5. **El diferenciador conceptual "separar curiosos de compradores" es único** en el mercado
+6. **Enfoque en corredor/PYME** es la brecha más grande que los competidores no están llenando
 
 ---
 
 ## FUENTES
 
-- https://vynxe.cl
-- https://mightychat.ai
-- https://www.cliengo.com
-- https://inmobot-ia.com
-- https://tamibot.com
+- https://lidz.ai
+- https://inmobot.cl
 - https://inmoautomation.com
+- https://realguru.ai
+- https://tamibot.com
+- https://kosmo.com.mx
+- https://endion.ai
+- https://mightychat.ai
+- https://linksolution.cl
+- https://chatbotchile.cl
+- https://tusclicks.cl
+- https://softimizados.cl
 - https://databot.cl
-- https://wazaut.com
-- https://bot-solutions.com
-- https://gpremium.cl
-- https://www.inmoweb.es
-- https://manychat.com
-- https://www.facebook.com/groups/agente3.0/
+- https://www.latercera.com/emprendimiento/noticia/no-somos-un-bot-generico-la-startup-creada-por-un-ingeniero-y-un-arquitecto-para-encontrar-casas-por-whatsapp/
+- https://www.entnerd.com/lidz-startup-chilena-responde-en-3-segundos-y-procesa-25-de-las-propiedades-nuevas-vendidas-de-chile/
+- https://globalbrokers.cl/diario-inmobiliario/4-tendencias-inmobiliarias-que-marcaran-el-2025-lo-que-se-viene-en-la-gestion
+- https://www.cnnchile.com/negocios/el-agente-inmobiliario-3-0-la-transformacion-digital-que-redefine-el-corretaje-de-propiedades-en-latinoamerica_20251030/
 
 ---
 
-*Documento preparado para VYNXE - Abril 2025*
-*Investigación de competencia en automatización IA para inmobiliarias en Chile*
+*Investigación preparada para VYNXE — Proyecto de validación de asistente virtual inmobiliario para corredores de propiedades en Chile*
